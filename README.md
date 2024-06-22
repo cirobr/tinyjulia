@@ -6,5 +6,5 @@ Julia's Docker image pre loaded with machine learning proprietary packages:
 * PascalVocTools.jl: 
 
 ### v1.1 - 1.10.4
-Version 1.1, based on Julia 1.10.4-bookworm. Intended for development purposes.
+Image version 1.1, based on Julia 1.10.4-bookworm. Intended for development purposes.
 Estimated image size: 2.26 GB
