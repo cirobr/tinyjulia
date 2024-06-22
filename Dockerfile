@@ -1,7 +1,3 @@
-# eval $(ssh-agent)
-# ssh-add
-# docker build -t tinyjulia:v1 --ssh default=${SSH_AUTH_SOCK} .
-
 FROM julia:1.10.4-bookworm
 # FROM julia:1.10.4-alpine
 
