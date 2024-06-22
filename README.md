@@ -1,3 +1,5 @@
+![alt text](https://github.com/cirobr/TinyMachines.jl//images/logo-name-tm.png?raw=true)
+
 # tinyjulia
 Julia's Docker image pre loaded with machine learning proprietary packages:
 * TinyMachines.jl: a Flux libray with flavors of the U-Net and Mobile-UNet models
