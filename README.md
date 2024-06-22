@@ -1,7 +1,7 @@
 ![alt text](https://github.com/cirobr/TinyMachines.jl/blob/main/images/logo-name-tm.png?raw=true)
 
 # tinyjulia
-Julia's Docker image pre loaded with machine learning proprietary packages:
+Docker's Julia image, pre-loaded with machine learning proprietary packages:
 * TinyMachines.jl: a collection of tiny machine learning models for semantic segmentation of images on IoT devices, written in Flux
 * LibML.jl: machine learning extension package to Flux
 * PreprocessingImages.jl: Images extension package for image preprocessing prior to AI/ML tasks
