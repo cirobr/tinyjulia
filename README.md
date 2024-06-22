@@ -1,4 +1,4 @@
-![alt text](https://github.com/cirobr/TinyMachines.jl/images/blob/main/images/logo-name-tm.png?raw=true)
+![alt text](https://github.com/cirobr/TinyMachines.jl/blob/main/images/logo-name-tm.png?raw=true)
 
 # tinyjulia
 Julia's Docker image pre loaded with machine learning proprietary packages:
